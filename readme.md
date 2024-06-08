@@ -15,11 +15,12 @@ The repository is organized into different files for each problem. Each file con
 
 ### List of Problems
 
-| No  | Problem Statement       | Solution link                                    |
-| --- | ----------------------- | ------------------------------------------------ |
-| 1   | k-subarray sum          | [solution.cpp](./Array/k-subarray-sum.cpp)       |
-| 2   | Pick elements both sides | [solution.cpp](./Array/pick-from-both-sides.cpp) |
+| No  | Problem Statement                              | Solution link                                            |
+| --- | ---------------------------------------------- | -------------------------------------------------------- |
+| 1   | k-subarray sum                                 | [solution.cpp](./Array/k-subarray-sum.cpp)               |
+| 2   | Pick elements both sides                       | [solution.cpp](./Array/pick-from-both-sides.cpp)         |
 | 3   | Best time to buy-sell stocks (single traction) | [solution.cpp](./Array/best-time-to-buy-sell-stocks.cpp) |
+| 4   | majority Element                               | [solution.cpp](./Array/majority-element.cpp)             |
 
 ---
 
