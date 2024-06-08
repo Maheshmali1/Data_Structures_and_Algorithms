@@ -21,6 +21,7 @@ The repository is organized into different files for each problem. Each file con
 | 2   | Pick elements both sides                       | [solution.cpp](./Array/pick-from-both-sides.cpp)         |
 | 3   | Best time to buy-sell stocks (single traction) | [solution.cpp](./Array/best-time-to-buy-sell-stocks.cpp) |
 | 4   | majority Element                               | [solution.cpp](./Array/majority-element.cpp)             |
+| 4   | minimum sum of two nums made from array        | [solution.cpp](./Array//minimum-sum-from-array.cpp)      |
 
 ---
 
